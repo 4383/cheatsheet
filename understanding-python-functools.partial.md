@@ -4,6 +4,8 @@ When coding in Python, you’ll often run into functions that do a lot, but you 
 
 [`functools.partial`](https://docs.python.org/3/library/functools.html#functools.partial) is the clean solution. It allows you to **freeze some arguments of a function** and return a new function with those values locked in. Think of it as pre-filling defaults and creating tailor-made versions of your functions.
 
+Before starting this tutorial [watch my video on this topic](https://youtube.com/shorts/wfKpjKBhGxA?feature=share).
+
 ---
 
 ## Squaring and cubing numbers
