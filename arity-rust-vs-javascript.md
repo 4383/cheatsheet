@@ -2,7 +2,7 @@
 
 > ✨ Get the full expert version of this tutorial on my [Patreon page](https://www.patreon.com/posts/beyond-argument-138218742?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link).
 
-Don't forget to [watch my associated video](https://youtube.com/shorts/Av64m3LeL48?feature=share).
+Don't forget to [watch my associated video](https://youtube.com/shorts/6zCHqN7e0Vw?feature=share).
 
 # Cheatsheet: Function Arity in JavaScript vs. Rust
 
